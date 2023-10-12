@@ -1,0 +1,18 @@
+description: Ultralytics best model trained on /content/gdrive/MyDrive/Colab_Notebooks/coco128.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-10-13T04:35:39.361794'
+version: 8.0.194
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: car
+  1: free
+  2: '0'
+  3: '1'
+  4: empty
+  5: occupied
